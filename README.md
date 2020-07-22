@@ -1,3 +1,6 @@
+**Please note: This repository has been achived since the build scripts have been moved
+into [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil).**
+
 This repository provides build scripts for
 [tree-sitter](https://github.com/tree-sitter/tree-sitter) parsers based on
 Julia's [BinaryBuilder.jl](https://github.com/JuliaPackaging/BinaryBuilder.jl)
